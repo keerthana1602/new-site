@@ -1,0 +1,29 @@
+body
+{
+    background-color: aquamarine;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.main-container
+{
+    position: relative;
+    padding-top: 50px;
+}
+.top-cloud
+{
+    
+    position: absolute;
+    right:300px;
+    top:50px;
+    
+}
+.bottom-cloud
+{
+   position: absolute;
+    right:900px; 
+    top:200px;
+}
+h1
+{
+    font-family: 'Sacramento', cursive;
+}
